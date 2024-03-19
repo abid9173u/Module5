@@ -125,9 +125,55 @@ main{
     margin-bottom: 20px; 
 }
 .skill-des{
-    font-size: 14px;
-    font-weight: 300;
+    font-size: 12px;
+    font-weight: 400;
     color: #757575;
 }
+/*resume*/
+.resume{
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.resume-container{
+    display: flex;
+    gap: 24px;
+    margin: 30px;
+}
+.resume-title{
+    color: dimgray;
+    margin-bottom: 20px;
+}
+.resume-item .title{ 
+    font-size: 15px;
+    font-weight: 700;
+    color: dimgrey;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.resume-item .sub-title{
+    font-size: 13px;
+    font-weight: 500;
+    color: #757575;
+    margin-bottom: 10px;
+}
+.resume-des{
+    font-size: 12px;
+    font-weight: 400;
+    color: #757575;
+    margin-bottom: 15px;
+}
+.btn-resume{
+    height: 45px;
+   padding: 10px 25px;
+   color: #fff;
+   background-color: #fd6e0a;
+   border-radius: 5px;
+   font-weight: 700;
+   border: 0;
+   display: block;
+   margin: auto;
+
+}
+
 
   
